@@ -1,4 +1,4 @@
-package com.example.android.basictodos;
+package com.example.android.recyclerviewtodos;
 
 import androidx.appcompat.app.AppCompatActivity;
 
